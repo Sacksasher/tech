@@ -1,0 +1,10 @@
+#navbar {
+    border: 10px solid black;
+}
+
+.nav-link {
+    display: flex;
+    flex-direction: column;
+    border: 10px solid black;
+    text-decoration: underline;
+}
